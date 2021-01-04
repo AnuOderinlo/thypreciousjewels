@@ -8,22 +8,25 @@
         <!--RD Navbar-->
         <?php include 'template/header.php'; ?>
         <!-- Swiper slider-->
-        <div class="swiper-container swiper-numbered" data-swiper>
+        <!-- <div class="swiper-container swiper-numbered" data-swiper> -->
+        <div class="swiper-container swiper-numbered">
           <!-- Additional required wrapper-->
           <div class="swiper-wrapper">
             <!-- Slides-->
-            <div class="swiper-slide" style="background-image: url( img/banner.jpg )">
+            <div class="swiper-slide" style="background-image: url( img/banner1.jpg ); background-repeat: no-repeat; background-size: cover;">
               <div class="intro-line-container">
                 <div class="container">
                   <div class="row justify-content-center">
-                   <!--  <div class="col-md-10 text-center">
-                      <h1 class="h1-big text-decorated-2">Honoring Life</h1>
-                      <h4>Welcome to Eternity Funeral Home, a place where we honor <br class="d-none d-xl-block"> your loved ones by celebrating their wonderful lives.</h4><a class="btn btn-primary" href="#">Get in Touch</a>
-                    </div> -->
+                    <div class="col-md-10 text-center text-info">
+                      <h1 class="h1-big text-decorated-2 secondary-color">THYPRECIOUSJEWELS</h1>
+                      <h4 class="text-white font-weight-bold" style="text-shadow: 1px 2px 3px #4a0a4a; text-transform: capitalize;">Leading women to godly living.</h4>
+                      <a class="btn btn-primary" href="#">Get in Touch</a>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+            <!--
             <div class="swiper-slide" style="background-image: url( images/home-02-1920x930.jpg )">
               <div class="intro-line-container">
                 <div class="container">
@@ -48,6 +51,7 @@
                 </div>
               </div>
             </div>
+          -->
           </div>
           <!-- Pagination-->
           <div class="swiper-pagination"></div>
@@ -60,13 +64,13 @@
             <div class="layout-media bg-image" style="background-image: url(images/home-04-837x551.jpg)" data-animate='{"class":"fadeInUpBig"}'></div>
             <div class="layout-content bg-100" data-animate='{"class":"fadeInUpBig","delay":".2s"}'>
               <h2>We are Here to Help You</h2>
-              <p class="big">The experienced funeral directors at Eternity Funeral Home will guide you through the aspects of the funeral service with compassion, dignity, and respect.</p>
+              <!-- <p class="big">The experienced funeral directors at Eternity Funeral Home will guide you through the aspects of the funeral service with compassion, dignity, and respect.</p> -->
                     <!-- Blurb link-->
                     <div class="blurb blurb-link-2">
                       <div class="blurb-icon fl-bigmug-line-clipboard68"></div>
                       <div class="blurb-content">
                         <h4 class="blurb-title"><a href="#">Pre-planning</a></h4>
-                        <p class="blurb-text big">The best way to spare your loved ones the emotional and financial strain.</p>
+                        <!-- <p class="blurb-text big">The best way to spare your loved ones the emotional and financial strain.</p> -->
                       </div>
                     </div>
                     <!-- Blurb link-->
@@ -74,7 +78,7 @@
                       <div class="blurb-icon fl-bigmug-line-circular220"></div>
                       <div class="blurb-content">
                         <h4 class="blurb-title"><a href="#">Quality Services</a></h4>
-                        <p class="blurb-text big">We offer high-quality services for families to create healing moments after loss.</p>
+                        <!-- <p class="blurb-text big">We offer high-quality services for families to create healing moments after loss.</p> -->
                       </div>
                     </div>
             </div>
@@ -82,108 +86,9 @@
         </div>
       </section>
       <!-- Blog carousel-->
-      <section class="section-md bg-transparent">
-        <div class="container">
-          <div class="row row-5 align-items-center">
-            <div class="col-md-5" data-animate='{"class":"fadeIn"}'>
-              <h2>Quality Services</h2>
-            </div>
-            <div class="col-md-7" data-animate='{"class":"fadeIn","delay":".2s"}'>
-              <p class="big">We offer a wide range of funeral services and arrangements to help you honor and celebrate the life of your loved one.</p>
-            </div>
-          </div>
-          <!-- Swiper slider-->
-          <div class="swiper-carousel">
-            <div class="swiper-container" data-swiper='{"breakpoints":{"576":{"slidesPerView":2,"spaceBetween":15},"768":{"slidesPerView":3,"spaceBetween":30}},"loop":false,"pagination":{"type":"custom"}}'>
-              <!-- Additional required wrapper-->
-              <div class="swiper-wrapper">
-                <!-- Slides-->
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-01-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Burials</a></h4>
-                            <p class="post-text">Our varied burial service offerings will ensure your peace of mind without undue financial hardship.</p>
-                          </div>
-                        </div>
-                </div>
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-02-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Floral Arrangements</a></h4>
-                            <p class="post-text">Honor the life of a loved one by sending a beautiful funeral flower arrangement by a local florist partner near you.</p>
-                          </div>
-                        </div>
-                </div>
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-03-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Memorial Services</a></h4>
-                            <p class="post-text">A dignified gathering of family, friends and colleagues to mark the life and passing of a loved one.</p>
-                          </div>
-                        </div>
-                </div>
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-04-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Cremations</a></h4>
-                            <p class="post-text">Our cremation services vary in scale from low-key to more elaborate, according to the family's wishes.</p>
-                          </div>
-                        </div>
-                </div>
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-05-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Ship-Outs</a></h4>
-                            <p class="post-text">Transferring a loved one to another state or country for burial is an important matter. We can help you with it.</p>
-                          </div>
-                        </div>
-                </div>
-                <div class="swiper-slide">
-                        <!-- Post-->
-                        <div class="post post-shadow"><a class="post-media" href="single-service.php"><img src="images/services-06-370x257.jpg" alt="" width="370" height="257"/>
-                            <div class="post-hover-btn">View</div></a>
-                          <div class="post-content">
-                            <div class="post-tags group-5 text-small"><span class="post-tag">from $535</span></div>
-                            <h4 class="post-title"><a href="single-service.php">Funeral Planning</a></h4>
-                            <p class="post-text">Let us help you with the necessary steps when a loved one passes away, from the early considerations to the full event.</p>
-                          </div>
-                        </div>
-                </div>
-              </div>
-              <div class="swiper-controls">
-                <!-- Pagination-->
-                <div class="swiper-pagination"></div>
-                <!-- Scrollbar-->
-                <div class="swiper-progress">
-                  <div class="swiper-progress-bar"></div>
-                </div>
-                <!-- Navigation-->
-                <div class="swiper-buttons">
-                  <div class="swiper-button-prev mdi-chevron-left"></div>
-                  <div class="swiper-button-next mdi-chevron-right"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
       <!-- Our team-->
-      <section class="section-md context-dark bg-600">
+      <section class="section-md context-dark custom-bg2">
         <div class="container container-wide">
           <h2 class="text-center">Recent Publications</h2>
           <div class="row no-gutters row-offset-lg person-poster-container">
@@ -237,69 +142,92 @@
           <h2 class="text-center">Our Latest Books</h2>
           <div class="row row-30 row-offset-lg">
             <div class="col-lg-4 col-md-6">
-                    <!-- Pricing-->
-                    <div class="pricing">
-                      <div class="pricing-head context-dark">
-                        <h3 class="pricing-title">Basic</h3>
-                        <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">23</span></div>
-                      </div>
-                      <div class="pricing-body">
-                        <ul class="pricing-list">
-                          <li class="pricing-list-item">Funeral Arrangements</li>
-                          <li class="pricing-list-item">Cremation Process</li>
-                          <li class="pricing-list-item pricing-list-item-disabled">Dressing &amp; Cosmetizing</li>
-                          <li class="pricing-list-item pricing-list-item-disabled">Service Vehicle</li>
-                        </ul><a class="btn" href="#">Order Now</a>
-                      </div>
-                    </div>
+              <!-- Pricing-->
+              <div class="pricing">
+                <div class=" context-dark">
+                  <img src="img/book1.jpg" class="w-100">
+                  <!-- <h3 class="pricing-title">Basic</h3> -->
+                  <!-- <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">23</span> -->
+                  <!-- </div> -->
+                </div>
+                <div class="pricing-body">
+                  <h4>About The Book</h4>
+                  <p>
+                    Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Repellat repellendus nulla nemo quas illum, reprehenderit voluptate ipsa soluta! Nostrum ipsa qui debitis porro, aspernatur saepe. Ratione consequatur at placeat nobis.
+                  </p>
+                 <!--  <ul class="pricing-list">
+                    <li class="pricing-list-item">Funeral Arrangements</li>
+                    <li class="pricing-list-item">Cremation Process</li>
+                    <li class="pricing-list-item pricing-list-item-disabled">Dressing &amp; Cosmetizing</li>
+                    <li class="pricing-list-item pricing-list-item-disabled">Service Vehicle</li>
+                  </ul> -->
+                  <a class="btn" href="#">Order Now</a>
+                </div>
+              </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                    <!-- Pricing-->
-                    <div class="pricing pricing-active">
-                      <div class="pricing-head context-dark">
-                        <h3 class="pricing-title">Gold</h3>
-                        <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">55</span></div>
-                      </div>
-                      <div class="pricing-body">
-                        <ul class="pricing-list">
-                          <li class="pricing-list-item">Funeral Arrangements</li>
-                          <li class="pricing-list-item">Cremation Process</li>
-                          <li class="pricing-list-item">Dressing &amp; Cosmetizing</li>
-                          <li class="pricing-list-item pricing-list-item-disabled">Service Vehicle</li>
-                        </ul><a class="btn" href="#">Order Now</a>
-                      </div>
-                    </div>
+              <!-- Pricing-->
+              <div class="pricing pricing-active">
+                <div class="context-dark">
+                  <img src="img/book2.jpg" class="w-100">
+                  <!-- <h3 class="pricing-title">Gold</h3> -->
+                  <!-- <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">55</span></div> -->
+                </div>
+                <div class="pricing-body">
+                  <h4>About The Book</h4>
+                  <p>
+                    Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Repellat repellendus nulla nemo quas illum, reprehenderit voluptate ipsa soluta! Nostrum ipsa qui debitis porro, aspernatur saepe. Ratione consequatur at placeat nobis.
+                  </p>
+                 <!--  <ul class="pricing-list">
+                    <li class="pricing-list-item">Funeral Arrangements</li>
+                    <li class="pricing-list-item">Cremation Process</li>
+                    <li class="pricing-list-item">Dressing &amp; Cosmetizing</li>
+                    <li class="pricing-list-item pricing-list-item-disabled">Service Vehicle</li>
+                  </ul> -->
+                  <a class="btn" href="#">Order Now</a>
+                </div>
+              </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                    <!-- Pricing-->
-                    <div class="pricing">
-                      <div class="pricing-head context-dark">
-                        <h3 class="pricing-title">Premium</h3>
-                        <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">105</span></div>
-                      </div>
-                      <div class="pricing-body">
-                        <ul class="pricing-list">
-                          <li class="pricing-list-item">Funeral Arrangements</li>
-                          <li class="pricing-list-item">Cremation Process</li>
-                          <li class="pricing-list-item">Dressing &amp; Cosmetizing</li>
-                          <li class="pricing-list-item">Service Vehicle</li>
-                        </ul><a class="btn" href="#">Order Now</a>
-                      </div>
-                    </div>
+              <!-- Pricing-->
+              <div class="pricing">
+                <div class=" context-dark">
+                  <img src="img/book1.jpg" class="w-100">
+                  <!-- <h3 class="pricing-title">Basic</h3> -->
+                  <!-- <div class="pricing-price h1"><span class="pricing-price-currency">$</span><span class="pricing-price-amount">23</span> -->
+                  <!-- </div> -->
+                </div>
+                <div class="pricing-body">
+                  <h4>About The Book</h4>
+                  <p>
+                    Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Repellat repellendus nulla nemo quas illum, reprehenderit voluptate ipsa soluta! Nostrum ipsa qui debitis porro, aspernatur saepe. Ratione consequatur at placeat nobis.
+                  </p>
+                 <!--  <ul class="pricing-list">
+                    <li class="pricing-list-item">Funeral Arrangements</li>
+                    <li class="pricing-list-item">Cremation Process</li>
+                    <li class="pricing-list-item pricing-list-item-disabled">Dressing &amp; Cosmetizing</li>
+                    <li class="pricing-list-item pricing-list-item-disabled">Service Vehicle</li>
+                  </ul> -->
+                  <a class="btn" href="#">Order Now</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
       <!-- Call to action-->
-      <section class="section-xxl bg-transparent text-center bg-image context-dark" style="background-image: url( images/bg-home-01.jpg )">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-md-10 col-lg-9">
-              <h2 class="h1">Need Couselling</h2>
-              <h4>Eternity is proud to offer green burials that have less impact on the environment and offer a more natural outdoor setting.</h4><a class="btn btn-white mt-4" href="contacts.php">Get in Touch</a>
+      <section class="bg-image "  style="background-image: url( img/banner2.jpg )">
+        <div class="section-xxl bg-transparent text-center context-dark" style="background-color: rgba(42, 1, 43, 0.8);" >
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-md-10 col-lg-9">
+                <h2 class="h1">Need Couselling</h2>
+                <h4>GOD’S PRECIOUS JEWEL. Leading Women in Godly Living. Believer of Jesus Christ. A woman of the word</h4><a class="btn btn-white mt-4" href="contacts.php">Get in Touch</a>
+              </div>
             </div>
           </div>
         </div>
+        
       </section>
       <!-- Practice-->
       <section class="section-md bg-transparent">
@@ -309,32 +237,32 @@
             <div class="col-xs-11 col-sm-6 col-lg-3" data-animate='{"class":"fadeInUpBig"}'>
                     <!-- Post-->
                     <div class="post post-line post-line-hover">
-                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">News</a></div><a class="post-media" href="blog-post.php"><img src="images/home-09-422x228.jpg" alt="" width="422" height="228"/>
+                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">Post</a></div><a class="post-media" href="blog-post.php"><img src="images/home-09-422x228.jpg" alt="" width="422" height="228"/>
                         <div class="post-hover-btn mdi-link-variant"></div></a>
                       <div class="post-content">
-                        <h4 class="post-title"><a href="blog-post.php">9 Ways Your Funeral Home Can Support Grieving Families</a></h4>
-                        <div class="post-date text-small">January 12, 2020</div>
+                        <h4 class="post-title"><a href="blog-post.php">Wives sumit</a></h4>
+                        <div class="post-date text-small">15 - 17 January, 2020</div>
                       </div>
                     </div>
             </div>
             <div class="col-xs-11 col-sm-6 col-lg-3" data-animate='{"class":"fadeInUpBig","delay":".15s"}'>
                     <!-- Post-->
                     <div class="post post-line post-line-hover">
-                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">News</a></div><a class="post-media" href="blog-post.php"><img src="images/home-10-422x228.jpg" alt="" width="422" height="228"/>
+                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">Post</a></div><a class="post-media" href="blog-post.php"><img src="images/home-10-422x228.jpg" alt="" width="422" height="228"/>
                         <div class="post-hover-btn mdi-link-variant"></div></a>
                       <div class="post-content">
-                        <h4 class="post-title"><a href="blog-post.php">Simple Mourning Rituals For The Modern Griever</a></h4>
-                        <div class="post-date text-small">January 12, 2020</div>
+                        <h4 class="post-title"><a href="blog-post.php">Commanding The Winds</a></h4>
+                        <div class="post-date text-small">15 December, 2021</div>
                       </div>
                     </div>
             </div>
             <div class="col-xs-11 col-sm-6 col-lg-3" data-animate='{"class":"fadeInUpBig","delay":".3s"}'>
                     <!-- Post-->
                     <div class="post post-line post-line-hover">
-                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">News</a></div><a class="post-media" href="blog-post.php"><img src="images/home-11-422x228.jpg" alt="" width="422" height="228"/>
+                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">Post</a></div><a class="post-media" href="blog-post.php"><img src="images/home-11-422x228.jpg" alt="" width="422" height="228"/>
                         <div class="post-hover-btn mdi-link-variant"></div></a>
                       <div class="post-content">
-                        <h4 class="post-title"><a href="blog-post.php">10 Inspirational Quotations About Grief and Comforting</a></h4>
+                        <h4 class="post-title"><a href="blog-post.php">Tpj Husband crush week.</a></h4>
                         <div class="post-date text-small">January 12, 2020</div>
                       </div>
                     </div>
@@ -342,10 +270,10 @@
             <div class="col-xs-11 col-sm-6 col-lg-3" data-animate='{"class":"fadeInUpBig","delay":".45s"}'>
                     <!-- Post-->
                     <div class="post post-line post-line-hover">
-                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">News</a></div><a class="post-media" href="blog-post.php"><img src="images/home-12-422x228.jpg" alt="" width="422" height="228"/>
+                      <div class="post-tags text-small"><a class="post-tag" href="classic-blog.php">Post</a></div><a class="post-media" href="blog-post.php"><img src="images/home-12-422x228.jpg" alt="" width="422" height="228"/>
                         <div class="post-hover-btn mdi-link-variant"></div></a>
                       <div class="post-content">
-                        <h4 class="post-title"><a href="blog-post.php">Sympathy Flowers: A Guide to Sending Flowers for Funerals</a></h4>
+                        <h4 class="post-title"><a href="blog-post.php">Possessing the gates</a></h4>
                         <div class="post-date text-small">January 12, 2020</div>
                       </div>
                     </div>

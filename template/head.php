@@ -7,8 +7,9 @@
     <meta property="og:description" content="brevis, barbatus clabulares aliquando convertam de dexter, peritus capio. devatio clemens habitio est.">
     <meta property="og:image" content="http://digipunk.netii.net/images/radar.gif">
     <meta property="og:url" content="http://digipunk.netii.net">
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="components/base/base.css">
     <script src="components/base/core.min.js"></script>
     <script src="components/base/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>

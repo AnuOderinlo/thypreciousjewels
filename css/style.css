@@ -1,0 +1,61 @@
+.btn{
+	background-color: #90670D!important
+}
+
+.btn::before{
+	background-color: #EBAB1F!important;
+}
+.btn:hover{
+	color: #500751!important;
+}
+
+.primary-color{
+	color: #90670D!important;
+}
+
+.secondary-color{
+	color: #500751!important;
+
+}
+
+
+
+.custom-bg{
+	/*background: linear-gradient(90deg, rgba(243,242,245,1) 0%, rgba(80,7,81,1) 53%, rgba(80,7,81,1) 100%)!important;*/
+	background: #2a012b!important;
+}
+
+.custom-bg2{
+	background: #690a69!important;
+
+}
+
+
+.footer-link a{
+	color: #ffff;
+}
+
+.post-date{
+	color: #90670D!important;
+
+}
+
+.post-date:hover{
+	color: #EBAB1F!important;
+
+}
+
+.pricing-head{
+	background: #6e3a6e!important;
+
+}
+
+.pricing-active .pricing-head{
+	background: #90670d!important;
+
+}
+
+
+a:hover{
+	color: #cdcacd!important;
+}

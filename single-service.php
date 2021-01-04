@@ -26,38 +26,38 @@
                 <div class="navbar-panel">
                   <button class="navbar-switch linearicons-menu" data-multi-switch='{"targets":".rd-navbar","scope":".rd-navbar","isolate":"[data-multi-switch]"}'></button>
                   <!-- Logo-->
-                  <div class="logo"><a class="logo-link" href="index.html"><img class="logo-default" src="images/logo-default-173x48.svg" alt="Eternity" width="173" height="48"/><img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/></a></div>
+                  <div class="logo"><a class="logo-link" href="index.php"><img class="logo-default" src="images/logo-default-173x48.svg" alt="Eternity" width="173" height="48"/><img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/></a></div>
                 </div>
               </div>
               <div class="navbar-cell navbar-spacer-sm"></div>
               <div class="navbar-cell">
                 <ul class="navbar-navigation rd-navbar-nav">
-                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="about-us.html">About Us</a>
+                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="about-us.php">About Us</a>
                     <ul class="navbar-navigation-dropdown rd-navbar-dropdown">
                       <li class="navbar-navigation-back">
                         <button class="navbar-navigation-back-btn">Back</button>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="obituaries.html">Obituaries</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="obituaries.php">Obituaries</a>
                         <ul class="navbar-navigation-dropdown rd-navbar-dropdown">
                           <li class="navbar-navigation-back">
                             <button class="navbar-navigation-back-btn">Back</button>
                           </li>
-                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="single-obituary.html">Single Obituary</a>
+                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="single-obituary.php">Single Obituary</a>
                           </li>
                         </ul>
                       </li>
                     </ul>
                   </li>
-                  <li class="navbar-navigation-root-item active"><a class="navbar-navigation-root-link" href="services.html">Services</a>
+                  <li class="navbar-navigation-root-item active"><a class="navbar-navigation-root-link" href="services.php">Services</a>
                     <ul class="navbar-navigation-dropdown rd-navbar-dropdown">
                       <li class="navbar-navigation-back">
                         <button class="navbar-navigation-back-btn">Back</button>
                       </li>
-                      <li class="navbar-navigation-dropdown-item active"><a class="navbar-navigation-dropdown-link" href="single-service.html">Single Service</a>
+                      <li class="navbar-navigation-dropdown-item active"><a class="navbar-navigation-dropdown-link" href="single-service.php">Single Service</a>
                       </li>
                     </ul>
                   </li>
-                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="gallery.html">Gallery</a>
+                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="gallery.php">Gallery</a>
                   </li>
                   <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="#">Pages</a>
                     <ul class="navbar-navigation-dropdown rd-navbar-dropdown">
@@ -69,44 +69,44 @@
                           <li class="navbar-navigation-back">
                             <button class="navbar-navigation-back-btn">Back</button>
                           </li>
-                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="classic-blog.html">Classic blog</a>
+                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="classic-blog.php">Classic blog</a>
                           </li>
-                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="grid-blog.html">Grid blog</a>
+                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="grid-blog.php">Grid blog</a>
                           </li>
-                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="blog-post.html">Blog post</a>
+                          <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="blog-post.php">Blog post</a>
                           </li>
                         </ul>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="404.html">404</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="404.php">404</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="typography.html">Typography</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="typography.php">Typography</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="coming-soon.html">Coming soon</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="coming-soon.php">Coming soon</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="icon-boxes.html">Icon boxes</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="icon-boxes.php">Icon boxes</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="counters-&amp;-progress-bars.html">Progress bars</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="counters-&amp;-progress-bars.php">Progress bars</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="search-results.html">Search results</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="search-results.php">Search results</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="faq.html">FAQ</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="faq.php">FAQ</a>
                       </li>
                     </ul>
                   </li>
-                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="shop.html">Shop</a>
+                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="shop.php">Shop</a>
                     <ul class="navbar-navigation-dropdown rd-navbar-dropdown">
                       <li class="navbar-navigation-back">
                         <button class="navbar-navigation-back-btn">Back</button>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="single-product.html">Single product</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="single-product.php">Single product</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="checkout.html">Checkout</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="checkout.php">Checkout</a>
                       </li>
-                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="cart.html">Cart</a>
+                      <li class="navbar-navigation-dropdown-item"><a class="navbar-navigation-dropdown-link" href="cart.php">Cart</a>
                       </li>
                     </ul>
                   </li>
-                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="contacts.html">Contacts</a>
+                  <li class="navbar-navigation-root-item"><a class="navbar-navigation-root-link" href="contacts.php">Contacts</a>
                   </li>
                 </ul>
               </div>
@@ -123,8 +123,8 @@
                     <button class="navbar-button navbar-cart-button mdi-cart" data-multi-switch='{"targets":".rd-navbar","scope":".rd-navbar","class":"navbar-cart-active","isolate":"[data-multi-switch]"}'><span class="navbar-button-badge">2</span></button>
                     <div class="navbar-aside navbar-cart">
                       <div class="navbar-cart-item">
-                        <div class="navbar-cart-item-left"><a class="thumbnail thumbnail-small" href="single-product.html"><img src="images/cart-navbar-01-72x91.jpg" alt="" width="72" height="91"/></a></div>
-                        <div class="navbar-cart-item-body"><a class="navbar-cart-item-heading" href="single-product.html">Tulips Sympathy Bouquet</a>
+                        <div class="navbar-cart-item-left"><a class="thumbnail thumbnail-small" href="single-product.php"><img src="images/cart-navbar-01-72x91.jpg" alt="" width="72" height="91"/></a></div>
+                        <div class="navbar-cart-item-body"><a class="navbar-cart-item-heading" href="single-product.php">Tulips Sympathy Bouquet</a>
                           <div class="navbar-cart-item-price d-flex group-10 justify-content-between">
                             <div>1 x <span class="navbar-cart-item-price-value">$35.00</span>
                             </div>
@@ -133,8 +133,8 @@
                         </div>
                       </div>
                       <div class="navbar-cart-item">
-                        <div class="navbar-cart-item-left"><a class="thumbnail thumbnail-small" href="single-product.html"><img src="images/cart-navbar-02-72x91.jpg" alt="" width="72" height="91"/></a></div>
-                        <div class="navbar-cart-item-body"><a class="navbar-cart-item-heading" href="single-product.html">Thoughtful Lily Bouquet</a>
+                        <div class="navbar-cart-item-left"><a class="thumbnail thumbnail-small" href="single-product.php"><img src="images/cart-navbar-02-72x91.jpg" alt="" width="72" height="91"/></a></div>
+                        <div class="navbar-cart-item-body"><a class="navbar-cart-item-heading" href="single-product.php">Thoughtful Lily Bouquet</a>
                           <div class="navbar-cart-item-price d-flex group-10 justify-content-between">
                             <div>1 x <span class="navbar-cart-item-price-value">$35.00</span>
                             </div>
@@ -142,7 +142,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="navbar-cart-total">Subtotal: $70.00</div><a class="btn btn-sm navbar-cart-btn" href="checkout.html">Checkout</a>
+                      <div class="navbar-cart-total">Subtotal: $70.00</div><a class="btn btn-sm navbar-cart-btn" href="checkout.php">Checkout</a>
                     </div>
                   </div>
                   <div class="navbar-subpanel-item">
@@ -252,14 +252,14 @@
           <div class="row row-30">
             <div class="col-md-3">
                     <!-- Logo-->
-                    <div class="logo footer-logo mt-1"><a class="logo-link" href="index.html"><img class="logo-default" src="images/logo-default-173x48.svg" alt="Eternity" width="173" height="48"/><img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/></a></div>
+                    <div class="logo footer-logo mt-1"><a class="logo-link" href="index.php"><img class="logo-default" src="images/logo-default-173x48.svg" alt="Eternity" width="173" height="48"/><img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/></a></div>
               <p class="pl-xl-1 pr-xl-5">We are a family-owned funeral home offering high-quality services for remebering your loved ones and celebrating their lives.</p>
             </div>
             <div class="col-md-5">
               <h4 class="footer-title">Our Blog</h4>
                     <!-- Post minimal-->
                     <div class="post post-minimal footer-post">
-                      <h6 class="post-title"><a href="blog-post.html">9 Ways You Can Support Grieving Families</a></h6>
+                      <h6 class="post-title"><a href="blog-post.php">9 Ways You Can Support Grieving Families</a></h6>
                       <div class="post-meta list list-inline-divided">
                         <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
                         <div class="list-item">
@@ -269,7 +269,7 @@
                     </div>
                     <!-- Post minimal-->
                     <div class="post post-minimal footer-post">
-                      <h6 class="post-title"><a href="blog-post.html">Simple Mourning Rituals For The Modern Griever</a></h6>
+                      <h6 class="post-title"><a href="blog-post.php">Simple Mourning Rituals For The Modern Griever</a></h6>
                       <div class="post-meta list list-inline-divided">
                         <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
                         <div class="list-item">
@@ -279,7 +279,7 @@
                     </div>
                     <!-- Post minimal-->
                     <div class="post post-minimal footer-post">
-                      <h6 class="post-title"><a href="blog-post.html">10 Inspirational Quotations About Grief</a></h6>
+                      <h6 class="post-title"><a href="blog-post.php">10 Inspirational Quotations About Grief</a></h6>
                       <div class="post-meta list list-inline-divided">
                         <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
                         <div class="list-item">
@@ -302,10 +302,10 @@
                 </div>
                 <div class="col-6 col-md-12 col-lg-6">
                   <ul class="list list-sm">
-                    <li class="list-item"><a class="link link-inherit" href="about-us.html">About</a></li>
-                    <li class="list-item"><a class="link link-inherit" href="services.html">Services</a></li>
-                    <li class="list-item"><a class="link link-inherit" href="obituaries.html">Obituaries</a></li>
-                    <li class="list-item"><a class="link link-inherit" href="contacts.html">Contacts</a></li>
+                    <li class="list-item"><a class="link link-inherit" href="about-us.php">About</a></li>
+                    <li class="list-item"><a class="link link-inherit" href="services.php">Services</a></li>
+                    <li class="list-item"><a class="link link-inherit" href="obituaries.php">Obituaries</a></li>
+                    <li class="list-item"><a class="link link-inherit" href="contacts.php">Contacts</a></li>
                   </ul>
                 </div>
               </div>
@@ -347,7 +347,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-4 col-lg-6 text-sm-right"><a class="link link-inherit" href="privacy-policy.html">Privacy Policy</a></div>
+            <div class="col-sm-4 col-lg-6 text-sm-right"><a class="link link-inherit" href="privacy-policy.php">Privacy Policy</a></div>
           </div>
         </div>
       </footer>

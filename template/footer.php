@@ -1,40 +1,46 @@
-<footer class="footer-extended context-dark bg-900">
+<footer class="custom-bg footer-extended text-white context-dark bg-900 footer-link">
   <div class="container">
     <div class="row row-30">
       <div class="col-md-3">
-              <!-- Logo-->
-              <div class="logo footer-logo mt-1"><a class="logo-link" href="index.php"><img class="logo-default" src="images/logo-default-173x48.svg" alt="Eternity" width="173" height="48"/><img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/></a></div>
-        <p class="pl-xl-1 pr-xl-5">We are a family-owned funeral home offering high-quality services for remebering your loved ones and celebrating their lives.</p>
+        <!-- Logo-->
+        <div class="logo footer-logo mt-1">
+          <a class="logo-link" href="index.php">
+            <!-- <img class="logo-default" src="img/logo.png" alt="thyprecious_logo" width="173" height="48"/> -->
+            <img class="logo-inverse" src="img/logo.png" alt="thyprecious_logo" width="80" height="48"/>
+            <!-- <img class="logo-inverse" src="images/logo-inverse-173x48.svg" alt="Eternity" width="173" height="48"/> -->
+          </a>
+        </div>
+        <p class="pl-xl-1 pr-xl-5">GOD’S PRECIOUS JEWEL. Leading Women in Godly Living. Believer of Jesus Christ. A woman of the word</p>
       </div>
       <div class="col-md-5">
         <h4 class="footer-title">Our Latest Posts</h4>
               <!-- Post minimal-->
               <div class="post post-minimal footer-post">
-                <h6 class="post-title"><a href="blog-post.php">9 Ways You Can Support Grieving Families</a></h6>
+                <h6 class="post-title"><a href="#">Alone, you may fight better</a></h6>
                 <div class="post-meta list list-inline-divided">
                   <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
                   <div class="list-item">
-                    <div class="post-tags"><a class="post-tag" href="#">News</a></div>
+                    <!-- <div class="post-tags"><a class="post-tag" href="#">News</a></div> -->
                   </div>
                 </div>
               </div>
               <!-- Post minimal-->
               <div class="post post-minimal footer-post">
-                <h6 class="post-title"><a href="blog-post.php">Simple Mourning Rituals For The Modern Griever</a></h6>
+                <h6 class="post-title"><a href="#">Pocessing The Gate</a></h6>
                 <div class="post-meta list list-inline-divided">
                   <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
                   <div class="list-item">
-                    <div class="post-tags"><a class="post-tag" href="#">News</a></div>
+                    <!-- <div class="post-tags"><a class="post-tag" href="#">News</a></div> -->
                   </div>
                 </div>
               </div>
               <!-- Post minimal-->
               <div class="post post-minimal footer-post">
-                <h6 class="post-title"><a href="blog-post.php">10 Inspirational Quotations About Grief</a></h6>
+                <h6 class="post-title"><a href="#">THEY SAID THE LAND WAS DRY....I BROUGHT MY RAIN</a></h6>
                 <div class="post-meta list list-inline-divided">
-                  <div class="list-item"><a class="post-date" href="#">January 12, 2020</a></div>
+                  <div class="list-item"><a class="post-date" href="#">December 12, 2020</a></div>
                   <div class="list-item">
-                    <div class="post-tags"><a class="post-tag" href="#">News</a></div>
+                    <!-- <div class="post-tags"><a class="post-tag" href="#">News</a></div> -->
                   </div>
                 </div>
               </div>
@@ -44,21 +50,21 @@
         <div class="row row-10 row-content">
           <div class="col-6 col-md-12 col-lg-6">
             <ul class="list list-sm">
-              <li class="list-item"><a class="link link-inherit" href="#">Burials</a></li>
-              <li class="list-item"><a class="link link-inherit" href="#">Flowers</a></li>
-              <li class="list-item"><a class="link link-inherit" href="#">Memorial Services</a></li>
-              <li class="list-item"><a class="link link-inherit" href="#">Cremations</a></li>
-              <li class="list-item"><a class="link link-inherit" href="#">Funeral Planning</a></li>
+              <li class="list-item"><a class="link link-inherit" href="about-us.php">About</a></li>
+              <li class="list-item"><a class="link link-inherit" href="services.php">Services</a></li>
+              <li class="list-item"><a class="link link-inherit" href="gallery.php">Gallery</a></li>
+              <li class="list-item"><a class="link link-inherit" href="contacts.php">Contacts</a></li>
+              <li class="list-item"><a class="link link-inherit" href="#">Blog</a></li>
             </ul>
           </div>
-          <div class="col-6 col-md-12 col-lg-6">
+         <!--  <div class="col-6 col-md-12 col-lg-6">
             <ul class="list list-sm">
               <li class="list-item"><a class="link link-inherit" href="about-us.php">About</a></li>
               <li class="list-item"><a class="link link-inherit" href="services.php">Services</a></li>
               <li class="list-item"><a class="link link-inherit" href="obituaries.php">Obituaries</a></li>
               <li class="list-item"><a class="link link-inherit" href="contacts.php">Contacts</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -67,7 +73,7 @@
       <div class="col-lg-6">
         <dl class="term-list term-list-inline">
           <dt>Office:</dt>
-          <dd class="h5"><a class="link link-contrast" href="#">793 Hickory Road, Brooklyn, NY 11230</a></dd>
+          <dd class="h5"><a class="link link-contrast" href="#">London</a></dd>
         </dl>
       </div>
       <div class="col-lg-6">
